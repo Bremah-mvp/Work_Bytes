@@ -44,7 +44,7 @@ To run the program please visit the <a href="">Work Bytes</a> page.
 
 ### Examples of Program in Use
 
-![A Picture]()
+![A Picture](https://raw.githubusercontent.com/relizabet/Work_Bytes/master/Assets/Annotation%202020-08-08%20150100.png)
 
 ### Notes
 
