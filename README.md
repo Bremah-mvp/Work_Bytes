@@ -4,7 +4,31 @@
 
 For this assignment we were asked to meet the following criteria:
 
-    Insert GIVEN WHEN THEN here.
+    Must use at least two server-side APIs
+Must use a CSS framework _other than_ Bootstrap
+Must be interactive (i.e: accept and respond to user input)
+Use at least one new third-party API
+Must have a polished UI
+Must meet good quality coding standards
+Does not use alerts, confirms or prompts (look into _modals_)
+Must be deployed to GitHub Pages
+As a group we came up with the following user story for our application:
+
+GIVEN I am using a job search website I can search for jobs
+WHEN I put what city I want a job in
+THEN I am presented with details of available jobs in that city
+WHEN the list of available jobs appears
+THEN I can apply to the available job presented
+THEN I can click the jobs to see nearby restaurants
+WHEN presented with nearby restaurants
+THEN I can click on a restaurant to view details and read reviews
+WHEN I check the save job checkbox
+THEN the job is added to save for my next visit
+WHEN I click the saved jobs link
+THEN I can see the jobs I saved from the last session
+WHEN I uncheck the saved job
+THEN the job is unsaved when I refresh the page
+Built With
 
 ### Built With
 
